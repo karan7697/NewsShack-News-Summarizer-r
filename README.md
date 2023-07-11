@@ -1,4 +1,4 @@
-# NewsShack-News-Summarizer-r
+# NewsShack-News-Summarizer
 News Summarizer using Machine Learning and Natural Language Processing.
 
 Today, users are shifting from consuming news on traditional platforms like television and print
